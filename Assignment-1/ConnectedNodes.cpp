@@ -2,8 +2,6 @@
 
 using namespace std;
 
-
-
 int main()
 {
     // Write your code here
@@ -35,5 +33,9 @@ for(int i =0; i<q; i++){
     return 0;
 }
 
+//Problem Statement
 
+//You will be given an undirected graph as input. Then you will be given  queries. For each query you will be given a node . You need to print the nodes that are connected with  in descending order.
+
+//Note: If there is no node connected to , then print -1.
 
